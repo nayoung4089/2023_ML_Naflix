@@ -9,6 +9,6 @@
 ```Python``` ```Streamlit```
 
 ## 📌 주요 기능
-- 영화 빅데이터 :  
+- 영화 빅데이터 : https://www.kaggle.com/code/ibtesama/getting-started-with-a-movie-recommendation-system/notebook
 - 빅데이터 기반 엉화정보 / 추천영화
 
